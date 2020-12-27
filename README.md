@@ -21,4 +21,15 @@ I summarized some typical questions under their respective topics. I hope this l
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/_34.py), [C++](./cpp/_34.cpp) | Medium |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/_35.py), [C++](./cpp/_35.cpp) | Easy |
 | 81   | [ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](./python/_81.py), [C++](./cpp/_81.cpp) | Medium |
+| 153   | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./python/_153.py), [C++](./cpp/_153.cpp) | Medium |
+| 154   | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](./python/_154.py), [C++](./cpp/_154.cpp) | Hard |
+| 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./python/_162.py), [C++](./cpp/_162.cpp) | Medium |
+| 410   | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./python/_410.py), [C++](./cpp/_410.cpp) | Hard |
+| 774   | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [Python](./python/_774.py), [C++](./cpp/_774.cpp) | Hard |
+| 875   | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](./python/_875.py), [C++](./cpp/_875.cpp) | Hard |
+| 875   | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [Python](./python/_1552.py), [C++](./cpp/_1552.cpp) | Hard |
+
+
+
+
 
