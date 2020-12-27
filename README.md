@@ -17,6 +17,8 @@ I summarized some typical questions under their respective topics. I hope this l
 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
-| 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/_34.py), [C++](./cpp/_34.cpp) | Medium       |
-| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/_35.py), [C++](./cpp/_35.cpp) | Easy       |
+| 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./python/_33.py), [C++](./cpp/_33.cpp) | Medium |
+| 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/_34.py), [C++](./cpp/_34.cpp) | Medium |
+| 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/_35.py), [C++](./cpp/_35.cpp) | Easy |
+| 81   | [ Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Python](./python/_81.py), [C++](./cpp/_81.cpp) | Medium |
 
