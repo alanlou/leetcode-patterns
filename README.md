@@ -28,5 +28,5 @@ I summarized some typical questions under their respective topics. I hope this l
 | 774   | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [Python](./python/_774.py), [C++](./cpp/_774.cpp) | Hard |
 | 875   | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](./python/_875.py), [C++](./cpp/_875.cpp) | Medium |
 | 1011   | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./python/_1011.py), [C++](./cpp/_1011.cpp) | Medium |
-| 1231   | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | [Python](./python/_1231.py), [C++](./cpp/_1231.cpp) | Medium |
+| 1231   | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | [Python](./python/_1231.py), [C++](./cpp/_1231.cpp) | Hard |
 | 1552   | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [Python](./python/_1552.py), [C++](./cpp/_1552.cpp) | Medium |
