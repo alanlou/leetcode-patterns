@@ -1,7 +1,8 @@
 LeetCode
 ========
 
-
+![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 
 When prepare for interviews, I find that practicing by topics is usually more efficient that randomly tackling problems.
 
