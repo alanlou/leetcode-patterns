@@ -1,4 +1,4 @@
-// O(NlogM) / O(sort)
+// O(NlogM) / O(1)
 class Solution {
 public:
     int splitArray(vector<int>& nums, int m) {
