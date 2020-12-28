@@ -4,9 +4,11 @@ LeetCode
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 
-When prepare for interviews, I find that practicing by topics is usually more efficient that randomly tackling problems.
+When prepare for coding interviews, I find that practicing by topics is usually more efficient that randomly tackling problems.
 
-I summarized some typical questions under their respective topics. I hope this list will help you better understand data structures and algorithm patterns.
+I summarized some typical questions under their respective topics and made sure all the code is as clean as possible. I hope this list will help more people like myself better understand data structures and grasp algorithm patterns.
+
+Good luck and have fun!
 
 (Please consider leaving a star if you find this repo helpful &#9733; )
 
@@ -59,3 +61,4 @@ I summarized some typical questions under their respective topics. I hope this l
 | 102   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./python/_102.py), [C++](./cpp/_102.cpp) | Medium |
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python](./python/_103.py), [C++](./cpp/_103.cpp) | Medium |
 | 107   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./python/_107.py), [C++](./cpp/_107.cpp) | Easy |
+| 127   | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Python](./python/_127.py), [C++](./cpp/_127.cpp) | Hard |
