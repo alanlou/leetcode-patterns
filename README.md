@@ -10,7 +10,17 @@ I summarized some typical questions under their respective topics. I hope this l
 
 (Please consider leaving a star if you find this repo helpful &#9733; )
 
+------
 
+### Topics
+
+- [Binary Search](#binary-search)
+- [Binary Search by Value](#binary-search-by-value)
+- [BFS](#bfs)
+
+
+
+------
 
 ### Binary Search
 
@@ -24,12 +34,20 @@ I summarized some typical questions under their respective topics. I hope this l
 | 153   | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./python/_153.py), [C++](./cpp/_153.cpp) | Medium |
 | 154   | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](./python/_154.py), [C++](./cpp/_154.cpp) | Hard |
 | 162   | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](./python/_162.py), [C++](./cpp/_162.cpp) | Medium |
-| 410   | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./python/_410.py), [C++](./cpp/_410.cpp) | Hard |
-| 774   | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [Python](./python/_774.py), [C++](./cpp/_774.cpp) | Hard |
-| 875   | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](./python/_875.py), [C++](./cpp/_875.cpp) | Medium |
-| 1011   | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./python/_1011.py), [C++](./cpp/_1011.cpp) | Medium |
-| 1231   | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | [Python](./python/_1231.py), [C++](./cpp/_1231.cpp) | Hard |
-| 1552   | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [Python](./python/_1552.py), [C++](./cpp/_1552.cpp) | Medium |
+
+
+
+### Binary Search by Value
+
+
+| #    | Title                                                        | Solution                                            | Difficulty |
+| ---- | ------------------------------------------------------------ | --------------------------------------------------- | ---------- |
+| 410  | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./python/_410.py), [C++](./cpp/_410.cpp)   | Hard       |
+| 774  | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [Python](./python/_774.py), [C++](./cpp/_774.cpp)   | Hard       |
+| 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](./python/_875.py), [C++](./cpp/_875.cpp)   | Medium     |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](./python/_1011.py), [C++](./cpp/_1011.cpp) | Medium     |
+| 1231 | [Divide Chocolate](https://leetcode.com/problems/divide-chocolate/) | [Python](./python/_1231.py), [C++](./cpp/_1231.cpp) | Hard       |
+| 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [Python](./python/_1552.py), [C++](./cpp/_1552.cpp) | Medium     |
 
 
 
