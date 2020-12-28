@@ -1,7 +1,6 @@
 # O(NlogM) / O(1)
 class Solution:
     def splitArray(self, nums: List[int], m: int) -> int:
-        l, r = max(nums), sum(nums) + 1
         
         def count(d):
             ans, cur = 1, 0
@@ -12,6 +11,7 @@ class Solution:
                     cur = num
             return ans
         
+        l, r = max(nums), sum(nums) + 1
         while l < r:
             mid = l + (r - l) // 2
             if count(mid) <= m:
