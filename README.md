@@ -67,3 +67,10 @@ I summarized some typical questions under their respective topics and made sure 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
 | 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/_200.py), [C++](./cpp/_200.cpp) | Medium |
+
+
+### Topological Sort
+
+| #    | Title                                                        | Solution                                        | Difficulty |
+| ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 207   | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./python/_207.py), [C++](./cpp/_207.cpp) | Medium |
