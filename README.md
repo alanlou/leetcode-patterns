@@ -8,8 +8,6 @@ When prepare for coding interviews, I find that practicing by topics is usually 
 
 I summarized some typical questions under their respective topics and made sure all the code is as clean as possible. I hope this list will help more people like myself better understand data structures and grasp algorithm patterns.
 
-Good luck and have fun!
-
 (Please consider leaving a star if you find this repo helpful &#9733; )
 
 ------
@@ -19,13 +17,13 @@ Good luck and have fun!
 - [Binary Search](#binary-search)
 - [Binary Search by Value](#binary-search-by-value)
 - [BFS](#bfs)
+- [DFS](#dfs)
 
 
 
 ------
 
 ### Binary Search
-
 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
@@ -41,7 +39,6 @@ Good luck and have fun!
 
 ### Binary Search by Value
 
-
 | #    | Title                                                        | Solution                                            | Difficulty |
 | ---- | ------------------------------------------------------------ | --------------------------------------------------- | ---------- |
 | 410  | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./python/_410.py), [C++](./cpp/_410.cpp)   | Hard       |
@@ -55,10 +52,18 @@ Good luck and have fun!
 
 ### BFS
 
-
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
 | 102   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./python/_102.py), [C++](./cpp/_102.cpp) | Medium |
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python](./python/_103.py), [C++](./cpp/_103.cpp) | Medium |
 | 107   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./python/_107.py), [C++](./cpp/_107.cpp) | Easy |
 | 127   | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Python](./python/_127.py), [C++](./cpp/_127.cpp) | Hard |
+| 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/_200.py), [C++](./cpp/_200.cpp) | Medium |
+
+
+
+### DFS
+
+| #    | Title                                                        | Solution                                        | Difficulty |
+| ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/_200.py), [C++](./cpp/_200.cpp) | Medium |
