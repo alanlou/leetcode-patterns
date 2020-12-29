@@ -18,10 +18,12 @@ I summarized some typical questions under their respective topics and made sure 
 - [Binary Search by Value](#binary-search-by-value)
 - [BFS](#bfs)
 - [DFS](#dfs)
+- [Topological Sort](#topological-sort)
 
 
 
 ------
+
 
 ### Binary Search
 
@@ -67,6 +69,7 @@ I summarized some typical questions under their respective topics and made sure 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
 | 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/_200.py), [C++](./cpp/_200.cpp) | Medium |
+
 
 
 ### Topological Sort
