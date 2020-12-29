@@ -14,6 +14,7 @@ I summarized some typical questions under their respective topics and made sure 
 
 ### Topics
 
+- [Binary Index Tree](#binary-index-tree)
 - [Binary Search](#binary-search)
 - [Binary Search by Value](#binary-search-by-value)
 - [BFS](#bfs)
@@ -23,6 +24,13 @@ I summarized some typical questions under their respective topics and made sure 
 
 
 ------
+
+### Binary Index Tree
+
+| #    | Title                                                        | Solution                                        | Difficulty |
+| ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 307   | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python](./python/_307.py), [C++](./cpp/_307.cpp) | Medium |
+
 
 
 ### Binary Search
