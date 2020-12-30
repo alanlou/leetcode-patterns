@@ -1,4 +1,4 @@
-# BFS using deque
+# Solution 1. BFS using deque
 # O(N) / O(N)
 class Solution:
     def levelOrder(self, root: TreeNode) -> List[List[int]]:
@@ -22,7 +22,7 @@ class Solution:
         return ans
 
 
-# BFS not using deque
+# Solution 2. BFS not using deque
 # O(N) / O(N)
 class Solution:
     def levelOrder(self, root: TreeNode) -> List[List[int]]:

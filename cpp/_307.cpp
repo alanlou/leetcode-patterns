@@ -1,4 +1,3 @@
-// O(N) / O(N)
 class FenwickTree {    
 public:
     FenwickTree(int n): sums_(n + 1, 0) {}
@@ -22,7 +21,8 @@ private:
     static inline int lowbit(int x) { return x & (-x); }
     vector<int> sums_;
 };
- 
+
+// O(N) / O(N)
 class NumArray {
 public:
     NumArray(vector<int> nums): nums_(std::move(nums)), fw_tree_(nums_.size()) {

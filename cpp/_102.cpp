@@ -1,4 +1,4 @@
-// BFS using queue
+// Solution 1. BFS using queue
 // O(N) / O(N)
 class Solution {
 public:
@@ -29,7 +29,7 @@ public:
 };
 
 
-// BFS not using queue
+// Solution 2. BFS not using queue
 // O(N) / O(N)
 class Solution {
 public:

@@ -1,4 +1,4 @@
-# topo sort using BFS
+# Solution 1. topo sort using BFS
 # O(N) / O(N)
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
@@ -25,7 +25,7 @@ class Solution:
         return all(v == 0 for v in in_degree.values())
         
 
-# topo sort using DFS
+# Solution 2. topo sort using DFS
 # O(N) / O(N)
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:

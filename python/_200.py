@@ -1,4 +1,4 @@
-# BFS
+# Solution 1. BFS
 # O(MN) / O(MN)
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
@@ -25,7 +25,7 @@ class Solution:
         return ans
 
 
-# DFS - recursive
+# Solution 2. DFS - recursive
 # O(MN) / O(MN)
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
@@ -49,7 +49,7 @@ class Solution:
         return ans
 
 
-# DFS - stack
+# Solution 3. DFS - stack
 # O(MN) / O(MN)
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:

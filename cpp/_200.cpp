@@ -1,4 +1,4 @@
-// BFS
+// Solution 1. BFS
 // O(MN) / O(MN)
 class Solution {
 public:
@@ -32,7 +32,7 @@ public:
 };
 
 
-// DFS
+// Solution 2. DFS
 // O(MN) / O(MN)
 class Solution {
 public:

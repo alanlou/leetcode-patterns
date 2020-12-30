@@ -1,4 +1,4 @@
-// topo sort using BFS
+// Solution 1. topo sort using BFS
 // O(N) / O(N)
 class Solution {
 public:
@@ -34,7 +34,7 @@ public:
 };
 
 
-// topo sort using DFS
+// Solution 2. topo sort using DFS
 // O(N) / O(N)
 class Solution {
 public:

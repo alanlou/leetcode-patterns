@@ -9,7 +9,7 @@ public:
             for (size_t i = 0; i < word.size(); ++i) {
                 string tmp_word = word;
                 tmp_word[i] = '*';
-                word_map[tmp_word].push_back(move(word));
+                word_map[tmp_word].push_back(std::move(word));
             }
         }
         

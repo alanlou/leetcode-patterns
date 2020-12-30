@@ -1,4 +1,4 @@
-# BFS
+# Solution 1. BFS
 # O(N) / O(N)
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
@@ -36,7 +36,7 @@ class Solution:
         return 0
 
 
-# two-way BFS
+# Solution 2. two-way BFS
 # O(N) / O(N)
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
