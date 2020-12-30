@@ -71,6 +71,7 @@ I summarized some typical questions under their respective topics and made sure 
 | 107   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./python/_107.py), [C++](./cpp/_107.cpp) | Easy |
 | 127   | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Python](./python/_127.py), [C++](./cpp/_127.cpp) | Hard |
 | 200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/_200.py), [C++](./cpp/_200.cpp) | Medium |
+| 752   | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [Python](./python/_752.py), [C++](./cpp/_752.cpp) | Medium |
 
 
 
