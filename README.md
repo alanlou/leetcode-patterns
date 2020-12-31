@@ -14,7 +14,7 @@ I summarized some typical questions under their respective topics and made sure 
 
 ### Topics
 
-- [Binary Index Tree](#binary-index-tree)
+- [Binary Indexed Tree](#binary-indexed-tree)
 - [Binary Search](#binary-search)
 - [Binary Search by Value](#binary-search-by-value)
 - [BFS](#bfs)
@@ -25,10 +25,11 @@ I summarized some typical questions under their respective topics and made sure 
 
 ------
 
-### Binary Index Tree
+### Binary Indexed Tree
 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 0   | [Template](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/) | [Python](./python/template/binary-indexed-trees.py), [C++](./cpp/template/binary_indexed_trees.cpp) | :gift: |
 | 307   | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python](./python/_307.py), [C++](./cpp/_307.cpp) | Medium |
 | 327   | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [Python](./python/_327.py), [C++](./cpp/_327.cpp) | Hard |
 | 1649   | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [Python](./python/_1649.py), [C++](./cpp/_1649.cpp) | Hard |
@@ -39,6 +40,7 @@ I summarized some typical questions under their respective topics and made sure 
 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 0   | [Template](https://www.geeksforgeeks.org/binary-search/) | [Python](./python/template/binary_search.py), [C++](./cpp/template/binary_search.cpp) | :gift: |
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./python/_33.py), [C++](./cpp/_33.cpp) | Medium |
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](./python/_34.py), [C++](./cpp/_34.cpp) | Medium |
 | 35   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/_35.py), [C++](./cpp/_35.cpp) | Easy |
@@ -53,6 +55,7 @@ I summarized some typical questions under their respective topics and made sure 
 
 | #    | Title                                                        | Solution                                            | Difficulty |
 | ---- | ------------------------------------------------------------ | --------------------------------------------------- | ---------- |
+| 0   | [Template](https://www.geeksforgeeks.org/binary-search/) | [Python](./python/template/binary_search_by_value.py), [C++](./cpp/template/binary_search_by_value.cpp) | :gift: |
 | 410  | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Python](./python/_410.py), [C++](./cpp/_410.cpp)   | Hard       |
 | 774  | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [Python](./python/_774.py), [C++](./cpp/_774.cpp)   | Hard       |
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](./python/_875.py), [C++](./cpp/_875.cpp)   | Medium     |
@@ -66,6 +69,7 @@ I summarized some typical questions under their respective topics and made sure 
 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 0   | [Template](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/) | [Python](./python/template/bfs.py), [C++](./cpp/template/bfs.cpp) | :gift: |
 | 102   | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./python/_102.py), [C++](./cpp/_102.cpp) | Medium |
 | 103   | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python](./python/_103.py), [C++](./cpp/_103.cpp) | Medium |
 | 107   | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Python](./python/_107.py), [C++](./cpp/_107.cpp) | Easy |
@@ -87,4 +91,12 @@ I summarized some typical questions under their respective topics and made sure 
 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 0   | [Template](https://www.geeksforgeeks.org/topological-sorting/) | [Python](./python/template/topo_sort.py), [C++](./cpp/template/topo_sort.cpp) | :gift: |
 | 207   | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./python/_207.py), [C++](./cpp/_207.cpp) | Medium |
+
+
+### Tree
+
+| #    | Title                                                        | Solution                                        | Difficulty |
+| ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 100   | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./python/_100.py), [C++](./cpp/_100.cpp) | Easy |
