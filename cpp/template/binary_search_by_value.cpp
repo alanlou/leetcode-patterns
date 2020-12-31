@@ -2,7 +2,7 @@ class Solution {
     // Template 1. bisect_lo
     //     return the smallest m such that g(m) is true
     // O(log(r-l)) / O(1)
-    int bisect_lo(vector<int>& nums, int target) {
+    int bisect_lo(vector<int>& nums) {
         // l is min possible value
         // r is max possible value + 1
         int l = 0, r = 10e5;
@@ -20,7 +20,7 @@ class Solution {
     // Template 2. bisect_hi
     //     return the largest m such that g(m) is true
     // O(log(r-l)) / O(1)
-    int bisect_hi(vector<int>& nums, int target) {
+    int bisect_hi(vector<int>& nums) {
         // l is min possible value - 1
         // r is max possible value
         while (l < r) {
