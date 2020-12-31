@@ -29,7 +29,7 @@ I summarized some typical questions under their respective topics and made sure 
 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
-| 0   | [Template](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/) | [Python](./python/template/binary-indexed-trees.py), [C++](./cpp/template/binary_indexed_trees.cpp) | :gift: |
+| 0   | [Template](https://www.topcoder.com/community/competitive-programming/tutorials/binary-indexed-trees/) | [Python](./python/template/binary_indexed_trees.py), [C++](./cpp/template/binary_indexed_trees.cpp) | :gift: |
 | 307   | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Python](./python/_307.py), [C++](./cpp/_307.cpp) | Medium |
 | 327   | [Count of Range Sum](https://leetcode.com/problems/count-of-range-sum/) | [Python](./python/_327.py), [C++](./cpp/_327.cpp) | Hard |
 | 1649   | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | [Python](./python/_1649.py), [C++](./cpp/_1649.cpp) | Hard |
