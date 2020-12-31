@@ -12,7 +12,7 @@ class Solution:
         # find all sources
         sources = [i for i in range(numCourses) if in_degree[i] == 0]
         
-        # dfs
+        # bfs
         while sources:
             nxt_sources = []
             for cur in sources:
@@ -41,8 +41,8 @@ class Solution:
         
         # dfs
         while sources:
-            curr = sources.pop()
-            for nxt in graph[curr]:
+            cur = sources.pop()
+            for nxt in graph[cur]:
                 in_degree[nxt] -= 1
                 if in_degree[nxt] == 0:
                     sources.append(nxt)
