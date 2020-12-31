@@ -6,7 +6,7 @@ LeetCode Patterns
 
 When prepare for coding interviews, I find that practicing by topics is usually more efficient that randomly tackling problems.
 
-I summarized some typical questions under their respective topics and made sure all the code is as clean as possible. I hope this list will help more people like myself better understand data structures and grasp algorithm patterns.
+I summarized some typical questions under their respective topics and made sure all the code is as clean as possible. I hope this list will help more people like myself better understand data structures and grasp algorithmic patterns.
 
 (Please consider leaving a star if you find this repo helpful &#9733; )
 
