@@ -19,7 +19,6 @@ class FenwickTree:
         return x & -x
 
 class NumArray:
- 
     def __init__(self, nums):
         self.nums = nums
         self.fw_tree = FenwickTree(len(nums))
