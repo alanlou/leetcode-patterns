@@ -83,6 +83,7 @@ I summarized some typical questions under their respective topics and made sure 
 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 0   | [Template](https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/) | [Python](./python/template/dfs.py), [C++](./cpp/template/dfs.cpp) | :gift: |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/_94.py), [C++](./cpp/_94.cpp) | Medium |
 | 144   | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Python](./python/_144.py), [C++](./cpp/_144.cpp) | Medium |
 | 145   | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Python](./python/_145.py), [C++](./cpp/_145.cpp) | Medium |
