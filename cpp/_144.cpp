@@ -7,7 +7,7 @@ public:
         preorder(root, ans);
         return ans;
     }
-    
+private:
     void preorder(TreeNode* root, vector<int>& ans) {
         if (!root) return;
         ans.push_back(root->val);
