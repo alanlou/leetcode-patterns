@@ -31,10 +31,10 @@ public:
         
         for (int i = 0; i < instructions.size(); ++i) {
             int num = instructions[i];
-            int left = fw_tree.query(num);
-            int right = i - fw_tree.query(num + 1);
+            int left = fw_tree.query(num - 1);
+            int right = i - fw_tree.query(num);
             ans = (ans + min(left, right)) % MOD;
-            fw_tree.update(num + 1, 1);
+            fw_tree.update(num, 1);
         }
         
         return ans;

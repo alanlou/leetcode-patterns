@@ -26,8 +26,8 @@ class Solution:
         
         n = len(nums)
         ans = [0] * n
-        tree = FenwickTree(n)
+        fw_tree = FenwickTree(n)
         for i in range(n - 1, -1, -1):
-            ans[i] = tree.query(rank[nums[i]] - 1)
-            tree.update(rank[nums[i]], 1)
+            ans[i] = fw_tree.query(rank[nums[i]] - 1)
+            fw_tree.update(rank[nums[i]], 1)
         return ans

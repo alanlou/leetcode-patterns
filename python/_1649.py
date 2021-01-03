@@ -21,12 +21,12 @@ class FenwickTree:
 class Solution:
     def createSortedArray(self, instructions: List[int]) -> int:
         ans, MOD = 0, 10**9 + 7
-        fw_tree = FenwickTree(max(instructions) + 1)
+        fw_tree = FenwickTree(max(instructions))
         
         for i, num in enumerate(instructions):
-            left = fw_tree.query(num)
-            right = i - fw_tree.query(num + 1)
+            left = fw_tree.query(num - 1)
+            right = i - fw_tree.query(num)
             ans = (ans + min(left, right)) % MOD
-            fw_tree.update(num + 1, 1)
-        
+            fw_tree.update(num, 1)
+            
         return ans
