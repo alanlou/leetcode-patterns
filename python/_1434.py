@@ -14,23 +14,15 @@ class Solution:
         
         @cache
         def dp(i, mask):
-            # base case: everyone has hat
             if mask == full_mask:
                 return 1
-            
-            # base case: run out of hats
             if i == 41:
                 return 0
             
-            # case 1. skip current hat
             ans = dp(i + 1, mask)
-            
-            # case 2. take current hat
             for p in h2p[i]:
-                # this person already has hat
                 if mask & (1 << p):
                     continue
-                # let person p take current hat
                 ans = (ans + dp(i + 1, mask | (1 << p))) % MOD
             
             return ans
