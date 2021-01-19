@@ -19,6 +19,7 @@ I summarized some typical questions under their respective topics and made sure 
 - [Binary Search by Value](#binary-search-by-value)
 - [BFS](#bfs)
 - [DFS](#dfs)
+- [DP - bitmask](#dp-bitmask)
 - [Topological Sort](#topological-sort)
 
 
@@ -93,12 +94,25 @@ I summarized some typical questions under their respective topics and made sure 
 
 
 
+### DP - bitmask
+
+| #    | Title                                                        | Solution                                        | Difficulty |
+| ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
+| 0   | [Template](https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/) |  | :gift: |
+| 1125   | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/) | [Python](./python/_1125.py), [C++](./cpp/_1125.cpp) | Hard |
+| 1349   | [Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) | [Python](./python/_1349.py), [C++](./cpp/_1349.cpp) | Hard |
+| 1434   | [Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/) | [Python](./python/_1434.py), [C++](./cpp/_1434.cpp) | Hard |
+| 1595   | [Minimum Cost to Connect Two Groups of Points](https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/) | [Python](./python/_1595.py), [C++](./cpp/_1595.cpp) | Hard |
+
+
+
 ### Topological Sort
 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
 | 0   | [Template](https://www.geeksforgeeks.org/topological-sorting/) | [Python](./python/template/topo_sort.py), [C++](./cpp/template/topo_sort.cpp) | :gift: |
 | 207   | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](./python/_207.py), [C++](./cpp/_207.cpp) | Medium |
+
 
 
 ### Tree
