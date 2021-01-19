@@ -19,7 +19,7 @@ I summarized some typical questions under their respective topics and made sure 
 - [Binary Search by Value](#binary-search-by-value)
 - [BFS](#bfs)
 - [DFS](#dfs)
-- [DP - bitmask](#dp-bitmask)
+- [DP - bitmask](#dp---bitmask)
 - [Topological Sort](#topological-sort)
 
 
