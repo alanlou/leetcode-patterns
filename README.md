@@ -120,5 +120,5 @@ I summarized some typical questions under their respective topics and made sure 
 | #    | Title                                                        | Solution                                        | Difficulty |
 | ---- | ------------------------------------------------------------ | ----------------------------------------------- | ---------- |
 | 100   | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](./python/_100.py), [C++](./cpp/_100.cpp) | Easy |
-| 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./python/_236.py), [C++](./cpp/_236.cpp) | Easy |
+| 236   | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](./python/_236.py), [C++](./cpp/_236.cpp) | Medium |
 
